@@ -1,0 +1,83 @@
+{
+    "SkipBackButtonText": "Skip back",
+    "SkipForwardButtonText": "Skip forward",
+    "PlayPauseButtonText": "Play/Pause",
+    "VolumeButtonText": "Volume",
+    "SettingsButtonText": "Settings",
+    "ResumeVideoPlayback": "Resume Video Playback",
+
+    "QualityMenuText": "Quality",
+    "QualityAutoText": "Auto",
+    "LanguageMenuText": "Language",
+    "CCMenuText": "Captions",
+    "BackFromText": "Back from",
+    "OnText": "On",
+    "OffText": "Off",
+
+    "ChapterIntroduction": "Welcome",
+    "GrowRevenue": "Grow Revenue",
+    "LowerCosts": "Lower costs",
+    "CustomerExperience": "Customer Experience",
+
+    "CtaButton1": "Contact",
+    "CtaButton2": "Website",
+    "CtaButton3": "Email",
+    "CtaButton4": "Save",
+    "CtaButton5": "Share",
+    "PromoTop": "Promo (Top)",
+    "PromoBottom": "Promo (Bottom)",
+
+    "SocialIcon-facebook": "Facebook",
+    "SocialIcon-twitter": "Twitter",
+    "SocialIcon-googleplus": "Google+",
+    "SocialIcon-email": "Email",
+    "SocialIcon-link": "Website",
+    "CollapseText": "Collapse",
+    "ExpandText": "Expand",
+
+    "PreparedForText": "Prepared for",
+
+    "CopyrightText": "Copyright 2017 Dialog Groep",
+    "PoweredByFooterText": "Powered by",
+    "HelpFooterText": "Help",
+    "PrivacyPolicyFooterText": "Privacy Policy",
+
+    "PromoDesktopTopImagePath": "./images/promo_portrait.png",
+    "PromoDesktopBottomImagePath": "./images/promo_portrait.png",
+    "PromoMobileTopImagePath": "./images/promo_landscape.png",
+    "PromoMobileBottomImagePath": "./images/promo_landscape.png",
+    "CtaButtonsImagePath": "./images/cta_icons.png",
+
+    "PromoDesktopTopImagePathIE": "./images/promo_portrait_ie.png",
+    "PromoDesktopBottomImagePathIE": "./images/promo_portrait_ie.png",
+    "PromoMobileTopImagePathIE": "./images/promo_landscape.png",
+    "PromoMobileBottomImagePathIE": "./images/promo_landscape.png",
+    "CtaButtonsImagePathIE": "./images/cta_icons_ie.png",
+
+    "ChapterSettings": {
+        "welcome": [
+            {
+                "name": "welcome",
+                "cardId": "START"
+            }
+        ],
+        "grow-revenue": [
+            {
+                "name": "grow-revenue",
+                "cardId": "1376da70"
+            }
+        ],
+        "lower-costs": [
+            {
+                "name": "lower-costs",
+                "cardId": "a66a6c18"
+            }
+        ],
+        "customer-experience": [
+            {
+                "name": "customer-experience",
+                "cardId": "13c65e12"
+            }
+        ]
+    }
+}
