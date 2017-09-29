@@ -92,7 +92,7 @@ var socialIconSettings = {
  */
 var ctaButtonSettings = {
     "button1": {
-        "card": "d1b4d742"
+        "card": "6dc68006"
     },
     "button2": {
         "url": "https://dialoggroep.eu/"
