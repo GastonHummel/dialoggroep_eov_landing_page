@@ -72,7 +72,7 @@ var socialIconSettings = {
             "text": "Google+"
         },
         "email": {
-            "url": "mailto:",
+            "url": "mailto:gerard.boele@dialoggroep.eu?subject=Bericht%20over%20EngageOne%20Video",
             "text": "Email"
         },
         "link": {
@@ -98,7 +98,7 @@ var ctaButtonSettings = {
         "url": "https://dialoggroep.eu/"
     },
     "button3": {
-        "card": "d1b4d742"
+        "url": "mailto:gerard.boele@dialoggroep.eu?subject=Bericht%20over%20EngageOne%20Video"
     },
     "button4": {
         "card": "d1b4d742"

@@ -43,15 +43,15 @@
     "PrivacyPolicyFooterText": "Privacy Policy",
 
     "PromoDesktopTopImagePath": "./images/promo_portrait.png",
-    "PromoDesktopBottomImagePath": "./images/promo_portrait.png",
+    "PromoDesktopBottomImagePath": "./images/promo_portrait_b.png",
     "PromoMobileTopImagePath": "./images/promo_landscape.png",
-    "PromoMobileBottomImagePath": "./images/promo_landscape.png",
+    "PromoMobileBottomImagePath": "./images/promo_landscape_b.png",
     "CtaButtonsImagePath": "./images/cta_icons.png",
 
     "PromoDesktopTopImagePathIE": "./images/promo_portrait_ie.png",
     "PromoDesktopBottomImagePathIE": "./images/promo_portrait_ie.png",
     "PromoMobileTopImagePathIE": "./images/promo_landscape.png",
-    "PromoMobileBottomImagePathIE": "./images/promo_landscape.png",
+    "PromoMobileBottomImagePathIE": "./images/promo_landscape_b.png",
     "CtaButtonsImagePathIE": "./images/cta_icons_ie.png",
 
     "ChapterSettings": {
