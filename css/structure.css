@@ -457,7 +457,8 @@
     .header,
     .main,
     .footer {
-        width: 1640px;
+      /*width: 1640px;*/
+      width: 1460px;
     }
 
     .cta--side,
@@ -503,7 +504,8 @@
     }
 
     .timeline__controls--center {
-        width: 1145px;
+        /*width: 1145px;*/
+        width: 965px;
     }
 
     .timeline__controls--right {
@@ -524,7 +526,8 @@
     .header,
     .main,
     .footer {
-        width: 1230px;
+      /*width: 1230px;*/
+      width: 1095px;
     }
 
     .cta--side,
@@ -566,7 +569,8 @@
     }
 
     .timeline__controls--center {
-        width: 855px;
+      /*width: 855px;*/
+      width: 720px;
     }
 
     .timeline__controls--right {
@@ -587,7 +591,8 @@
     .header,
     .main,
     .footer {
-        width: 820px;
+      /*width: 820px;*/
+      width: 730px;
     }
 
     .cta--side,
@@ -634,7 +639,8 @@
     }
 
     .timeline__controls--center {
-        width: 500px;
+      /*width: 500px;*/
+      width: 410px;
     }
 
     .timeline-buffering {
