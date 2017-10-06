@@ -43,7 +43,7 @@ var chapterSettings = {
     ],
     "close": [
         {
-            "name": "close",
+            "name": "closing-summary",
             "cardId": "eb0b5178"
         }
     ]

@@ -18,7 +18,7 @@
     "GrowRevenue": "Meer omzet",
     "LowerCosts": "Lagere kosten",
     "CustomerExperience": "Betere klantbeleving",
-    "Close": "Afsluiting",
+    "ClosingSummary": "Afsluiting",
 
     "CtaButton1": "Contact",
     "CtaButton2": "Website",
@@ -82,7 +82,7 @@
         ],
         "close": [
             {
-                "name": "close",
+                "name": "closing-summary",
                 "cardId": "eb0b5178"
             }
         ]

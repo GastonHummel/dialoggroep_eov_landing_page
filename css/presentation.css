@@ -440,7 +440,11 @@
 }
 
 .timeline-chapters__chapter-customer-experience {
-    width: 38%;
+    width: 25%;
+}
+
+.timeline-chapters__chapter-closing-summary {
+    width: 13%;
 }
 
 .timeline-volume__bg {
