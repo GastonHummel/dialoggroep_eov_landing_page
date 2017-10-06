@@ -40,6 +40,12 @@ var chapterSettings = {
             "name": "customer-experience",
             "cardId": "13c65e12"
         }
+    ],
+    "close": [
+        {
+            "name": "close",
+            "cardId": "eb0b5178"
+        }
     ]
 };
 
