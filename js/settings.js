@@ -66,23 +66,27 @@ var socialIconSettings = {
     "position": "right",
     "icons": {
         "facebook": {
-            "url": "https://facebook.com",
+            "url": "https://www.facebook.com/DialogGroep/",
             "text": "Facebook"
         },
         "twitter": {
-            "url": "https://twitter.com",
+            "url": "https://twitter.com/DocumentDialog",
             "text": "Twitter"
         },
         "googleplus": {
-            "url": "https://plus.google.com",
-            "text": "Google+"
+            "url": "https://www.linkedin.com/company/42289/ ",
+            "text": "LinkedIn"
         },
+        // "googleplus": {
+        //     "url": "https://plus.google.com",
+        //     "text": "Google+"
+        // },
         "email": {
-            "url": "mailto:gerard.boele@dialoggroep.eu?subject=Bericht%20over%20EngageOne%20Video",
+            "url": "mailto:connect@dialoggroep.eu?subject=Bericht%20over%20EngageOne%20Video",
             "text": "Email"
         },
         "link": {
-            "url": "https://dialoggroep.eu/",
+            "url": "https://documentdialog.eu/interactieve-gepersonaliseerde-video/",
             "text": "Website"
         }
     }
