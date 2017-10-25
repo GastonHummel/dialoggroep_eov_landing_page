@@ -17,36 +17,36 @@
  * All videos have an END state, this should not be defined here as it is an implicit construct.
  */
 var chapterSettings = {
-    "welcome": [
-        {
-            "name": "welcome",
-            "cardId": "START"
-        }
-    ],
-    "grow-revenue": [
-        {
-            "name": "grow-revenue",
-            "cardId": "1376da70"
-        }
-    ],
-    "lower-costs": [
-        {
-            "name": "lower-costs",
-            "cardId": "a66a6c18"
-        }
-    ],
-    "customer-experience": [
-        {
-            "name": "customer-experience",
-            "cardId": "13c65e12"
-        }
-    ],
-    "close": [
-        {
-            "name": "closing-summary",
-            "cardId": "eb0b5178"
-        }
-    ]
+  welcome: [
+    {
+      name: "welcome",
+      cardId: "START"
+    }
+  ],
+  "grow-revenue": [
+    {
+      name: "grow-revenue",
+      cardId: "1376da70"
+    }
+  ],
+  "lower-costs": [
+    {
+      name: "lower-costs",
+      cardId: "a66a6c18"
+    }
+  ],
+  "customer-experience": [
+    {
+      name: "customer-experience",
+      cardId: "13c65e12"
+    }
+  ],
+  close: [
+    {
+      name: "closing-summary",
+      cardId: "eb0b5178"
+    }
+  ]
 };
 
 /**
@@ -63,33 +63,34 @@ var chapterSettings = {
  *      "text" sets the alternate text used on screen-readers by default
  */
 var socialIconSettings = {
-    "position": "right",
-    "icons": {
-        "facebook": {
-            "url": "https://www.facebook.com/DialogGroep/",
-            "text": "Facebook"
-        },
-        "twitter": {
-            "url": "https://twitter.com/DocumentDialog",
-            "text": "Twitter"
-        },
-        "googleplus": {
-            "url": "https://www.linkedin.com/company/42289/ ",
-            "text": "LinkedIn"
-        },
-        // "googleplus": {
-        //     "url": "https://plus.google.com",
-        //     "text": "Google+"
-        // },
-        "email": {
-            "url": "mailto:connect@dialoggroep.eu?subject=Bericht%20over%20EngageOne%20Video",
-            "text": "Email"
-        },
-        "link": {
-            "url": "https://documentdialog.eu/interactieve-gepersonaliseerde-video/",
-            "text": "Website"
-        }
+  position: "right",
+  icons: {
+    facebook: {
+      url: "https://www.facebook.com/DialogGroep/",
+      text: "Facebook"
+    },
+    twitter: {
+      url: "https://twitter.com/DocumentDialog",
+      text: "Twitter"
+    },
+    googleplus: {
+      url: "https://www.linkedin.com/company/42289/ ",
+      text: "LinkedIn"
+    },
+    // "googleplus": {
+    //     "url": "https://plus.google.com",
+    //     "text": "Google+"
+    // },
+    email: {
+      url:
+        "mailto:connect@dialoggroep.eu?subject=Bericht%20over%20EngageOne%20Video",
+      text: "Email"
+    },
+    link: {
+      url: "https://documentdialog.eu/interactieve-gepersonaliseerde-video/",
+      text: "Website"
     }
+  }
 };
 
 /**
@@ -101,21 +102,22 @@ var socialIconSettings = {
  * "url" buttons will open the specified URL in a new window/tab when clicked
  */
 var ctaButtonSettings = {
-    "button1": {
-        "card": "f6320cf9"
-    },
-    "button2": {
-        "url": "https://dialoggroep.eu/"
-    },
-    "button3": {
-        "url": "mailto:gerard.boele@dialoggroep.eu?subject=Bericht%20over%20EngageOne%20Video"
-    },
-    "button4": {
-        "card": "a81a318f"
-    },
-    "button5": {
-        "url": "https://dialoggroep.eu/"
-    }
+  button1: {
+    card: "f6320cf9"
+  },
+  button2: {
+    url: "https://dialoggroep.eu/"
+  },
+  button3: {
+    url:
+      "mailto:connect@dialoggroep.eu?subject=Bericht%20over%20EngageOne%20Video"
+  },
+  button4: {
+    card: "a81a318f"
+  },
+  button5: {
+    url: "https://dialoggroep.eu/"
+  }
 };
 
 /**
@@ -125,14 +127,14 @@ var ctaButtonSettings = {
  * "url" to go to when the promo is clicked
  */
 var promoSettings = {
-    "promo1": {
-        "trackingName": "Document Dialog",
-        "url": "https://documentdialog.eu/"
-    },
-    "promo2": {
-        "trackingName": "CCM Masters",
-        "url": "https://www.ccmmasters.eu/"
-    }
+  promo1: {
+    trackingName: "Document Dialog",
+    url: "https://documentdialog.eu/"
+  },
+  promo2: {
+    trackingName: "CCM Masters",
+    url: "https://www.ccmmasters.eu/"
+  }
 };
 
 /**
@@ -147,9 +149,9 @@ var promoSettings = {
  * "MultiLanguageSupported" enables the language selection option in the settings menu
  */
 var timelineSettings = {
-    "SeenChaptersEnabled": false,
-    "ContrastProgressBarEnabled": false,
-    "BufferBarEnabled": true,
-    "ClosedCaptionsSupported": true,
-    "MultiLanguageSupported": true
+  SeenChaptersEnabled: false,
+  ContrastProgressBarEnabled: false,
+  BufferBarEnabled: true,
+  ClosedCaptionsSupported: true,
+  MultiLanguageSupported: true
 };
